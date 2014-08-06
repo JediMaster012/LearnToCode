@@ -39,3 +39,8 @@ Bash is a type of shell
 Branching
 Iterating/looping
 Assignment
+
+
+# Assignments
+
+ * 
